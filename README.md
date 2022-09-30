@@ -5,7 +5,7 @@ criei esse projetinho usando python junto com a biblioteca pytube para baixar mi
 # Instalação
 Para usar instale o Python e o Pip instalados. 
 ### 1 - Descompacte o arquivo. 
-### 2 - Abra o cmd e digite pip install -r requirements.txt  e aguarde instalar as bibliotecas.
+### 2 - Abra o cmd na pasta e digite pip install -r requirements.txt  e aguarde instalar as bibliotecas.
 ### 3 - digite python main.py
 ### 4 - Cole a Url, espere alguns segundos e o .mp3 estara disponivel na pasta MusicasBaixadas. 
 
