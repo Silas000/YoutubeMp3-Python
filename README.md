@@ -12,3 +12,6 @@ Para usar instale o Python e o Pip instalados.
 # Links uteis
 ##### python - https://www.python.org/downloads/
 ##### Como instalar o pip - https://www.treinaweb.com.br/blog/como-instalar-um-pacote-com-pip-e-utiliza-lo-em-seu-projeto
+
+# Screenshot
+<img src="https://i.imgur.com/tzL94UT.png">
